@@ -1,0 +1,2 @@
+# Radio-Frequency-RoboSoccer
+Design and build three manual/autonomous robot i.e. one STRIKER, one DEFENDER and one GOALIE, Competent enough to participate in the soccer match. The team with maximum goals after the match will be the winner. Each team can have at most three robots for the full tournament. The substitution of robots during the competition within the team or with other teams is forbidden.So, get your manual robots ready to compete in the World biggest Robo Soccer Challenge.
